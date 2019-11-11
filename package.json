@@ -1,5 +1,5 @@
 {
-  "name": "next-tailwind-typescript-starter",
+  "name": "nextjs-tailwind-typescript-starter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,8 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "xDecus",
+  "license": "MIT",
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "next": "^9.1.3",
