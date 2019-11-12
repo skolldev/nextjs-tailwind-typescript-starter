@@ -1,0 +1,10 @@
+{
+  "extends": ["tslint:recommended", "tslint-react"],
+  "rules": {
+    "trailing-comma": false,
+    "arrow-parens": false,
+    "object-literal-sort-keys": false,
+    "jsx-no-multiline-js": false,
+    "jsx-boolean-value": false
+  }
+}
