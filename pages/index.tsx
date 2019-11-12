@@ -3,8 +3,6 @@ import "../styles/index.css";
 import { NextPage } from "next";
 import Head from "next/head";
 
-import Component from "../components/component";
-
 const Home: NextPage = () => (
   <div>
     <Head>
@@ -17,7 +15,6 @@ const Home: NextPage = () => (
       />
     </Head>
     <div className="p-4 shadow rounded bg-white">
-      <Component />
       <h1 className="text-purple-700 text-3xl ">Next.js</h1>
       <p className="text-gray-800">with Tailwind CSS and Typescript</p>
       <p className="text-gray-800">Made with ♥ by me at</p>

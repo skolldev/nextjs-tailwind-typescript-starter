@@ -1,6 +1,6 @@
 {
-  "name": "NextJs Starter Template",
-  "short_name": "NextJs",
+  "name": "Next JS Starter Template",
+  "short_name": "Next JS",
   "icons": [
     {
       "src": "/static/icon-192.png",
@@ -14,7 +14,7 @@
     }
   ],
   "background_color": "#FFFFFF",
-  "description": "A Next.Js start template with tailwind css and typescript",
+  "description": "Portfolio Page",
   "display": "fullscreen",
   "start_url": "/",
   "theme_color": "#000"
